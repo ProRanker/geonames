@@ -1,0 +1,6 @@
+5361529	Jurupa Valley High School	Jurupa Valley High School		34.002	-117.52109	S	SCH	US		CA	065			0	225	230	America/Los_Angeles	2011-01-10
+5373492	Jurupa Valley	Jurupa Valley	Majra Loma,Mira Loma,Stalder,Wineville,mira loma,myra lwma,Мајра Лома,ميرا لوما,मिरा लोमा	33.99251	-117.51644	P	PPL	US		CA	065			21930	220	224	America/Los_Angeles	2018-04-04
+7195512	Calvary Chapel of Jurupa Valley	Calvary Chapel of Jurupa Valley		34.01564	-117.48031	S	CH	US		CA	065			0	242	245	America/Los_Angeles	2010-02-05
+11379405	Riverside County Sheriff's Department - Jurupa Valley	Riverside County Sheriff's Department - Jurupa Valley		34.01264	-117.44625	S	BLDG	US		CA	065			0	283	284	America/Los_Angeles	2016-09-18
+11788995	City of Jurupa Valley	City of Jurupa Valley		34.00103	-117.47052	A	ADM3	US		CA	065	11788995		0	230	233	America/Los_Angeles	2016-02-06
+11821023	Jurupa Valley	Jurupa Valley		33.99685	-117.48342	P	PPL	US		CA	065			0		219	America/Los_Angeles	2018-02-22
